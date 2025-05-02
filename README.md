@@ -1,5 +1,4 @@
 - :wave: Hi, I'm @mustberuss
 - :registered: I'm interested in patent data, the older the better, bulk data and APIs for patents and trademarks
-- :writing_hand: I'm also a fan of Swagger UI, so my worlds collided in my efforts to make a [Swagger UI page](https://mustberuss.github.io/Patentsview-Swagger/) for the [patentsview API!](https://patentsview.org/)
 - :telescope: I've also gotten into R and am working on updating the patentsview API's R package for an upcoming redesign of the API
 - :telescope: and it shouldn't be a surprise that I've been playing around with the python wrappers for the patentsview API (the API team's and another by mikeym88, both pinned below)
